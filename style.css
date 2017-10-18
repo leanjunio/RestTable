@@ -1,12 +1,16 @@
 .project {
   margin: 20px auto;
-  line-height: 20px;
 }
 
 h1 {
-  font-size: 60pt;
+  font-size: 70pt;
 }
 
 p {
   font-size: 20pt;
+}
+
+td {
+  font-size: 15pt;
+  line-height: 25px;
 }
